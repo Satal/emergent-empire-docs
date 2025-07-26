@@ -1,47 +1,94 @@
 ---
 sidebar_position: 1
+slug: /
+title: Welcome to EmergentEmpires.ai
+description: Your guide to mastering strategic space empire simulation
+keywords: [EmergentEmpires.ai, strategy game, space empire, AI, documentation]
 ---
 
-# Tutorial Intro
+# Welcome to EmergentEmpires.ai
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**Build galactic empires, master strategic gameplay, and compete with intelligent AI opponents.**
 
-## Getting Started
+EmergentEmpires.ai is a sophisticated turn-based strategy game that combines elements of 4X gameplay (eXplore, eXpand, eXploit, eXterminate) with cutting-edge AI technology and deep strategic mechanics.
 
-Get started by **creating a new site**.
+## 🚀 Quick Navigation
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### 🎮 New to the Game?
+- **[Game Overview](./getting-started/game-overview)** - Understand the core concepts
+- **[Quick Start Guide](./getting-started/quick-start)** - Play your first game in 15 minutes
+- **[User Interface Guide](./user-guides/getting-started)** - Navigate the game interface
 
-### What you'll need
+### 🎯 Ready to Play?
+- **[Resource System](./gameplay/resource-system)** - Master the three-resource economy
+- **[Planet Development](./gameplay/planet-development)** - Build specialized worlds
+- **[Fleet Management](./gameplay/fleet-management)** - Command space fleets
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### 📚 Want to Improve?
+- **[Beginner Strategies](./strategy/beginner-strategies)** - Proven approaches for new players
+- **[Advanced Tactics](./strategy/advanced-tactics)** - Expert-level gameplay
+- **[Species Guide](./game-rules/species-guide)** - Choose the right civilization
 
-## Generate a new site
+### 🔧 Developer Resources
+- **[API Documentation](./technical/api-documentation)** - Build custom AI players
+- **[AI Development](./developer-docs/ai-development)** - Create intelligent opponents
+- **[Game Mechanics](./technical/game-mechanics)** - Understand system details
 
-Generate a new Docusaurus site using the **classic template**.
+## 🌟 What Makes EmergentEmpires.ai Special?
 
-The classic template will automatically be added to your project after you run the command:
+### 🤖 Advanced AI Technology
+- **Intelligent Opponents**: AI players with distinct personalities and adaptive strategies
+- **Learning Systems**: AIs that analyze and improve their performance over time
+- **AI vs AI Battles**: Watch strategies compete and learn from the results
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### 🎮 Deep Strategic Gameplay
+- **Multiple Victory Paths**: Conquest, economic, technological, diplomatic, and score victories
+- **Three-Resource Economy**: Balance energy, materials, and knowledge for optimal growth
+- **Five-Tier Development**: Transform planets into specialized powerhouses
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### 🌌 Scalable Complexity
+- **Beginner Friendly**: Tutorial systems and guided gameplay for new players
+- **Expert Depth**: Complex optimization possibilities for strategic masters
+- **Customizable**: Adjust game parameters for different experience levels
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## 🎯 Choose Your Path
 
-## Start your site
+<div className="row">
+  <div className="col col--6">
+    <div className="card">
+      <div className="card__header">
+        <h3>🎮 New Player</h3>
+      </div>
+      <div className="card__body">
+        <p>Start with the basics and learn through guided gameplay.</p>
+      </div>
+      <div className="card__footer">
+        <a href="./getting-started/game-overview" className="button button--primary button--block">Start Learning</a>
+      </div>
+    </div>
+  </div>
+  <div className="col col--6">
+    <div className="card">
+      <div className="card__header">
+        <h3>🔧 Developer</h3>
+      </div>
+      <div className="card__body">
+        <p>Build AI players and integrate with the game API.</p>
+      </div>
+      <div className="card__footer">
+        <a href="./developer-docs/ai-development" className="button button--primary button--block">Start Building</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-Run the development server:
+## 🤝 Community
 
-```bash
-cd my-website
-npm run start
-```
+- **[FAQ](./community/faq)** - Frequently asked questions
+- **[Contributing](./community/contributing)** - Help improve the game
+- **[Discord](https://discord.gg/emergentempire)** - Join the community
+- **[GitHub](https://github.com/Satal)** - View the source code
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+---
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+*Ready to build your galactic empire? Start with the [Game Overview](./getting-started/game-overview) or jump right into the [Quick Start Guide](./getting-started/quick-start)!*
